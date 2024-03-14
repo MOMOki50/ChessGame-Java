@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ada7e5c-b79f-4833-9ec8-0f92c554c0e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Pruefsumme postgres_13" beforeDir="false" afterPath="$PROJECT_DIR$/Pruefsumme postgres_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pruefsumme sep-app_latest" beforeDir="false" afterPath="$PROJECT_DIR$/Pruefsumme sep-app_latest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEP_Projektmappe_Gruppe_B_WS23.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sep-app_latest.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SEP/SEP/ComputerGame/ComputerGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SEP/SEP/ComputerGame/ComputerGameController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XTdPOxUjt0TEi1aMUHZ51nDxYU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/gruppe-b/SEP/src/main/resources/static&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\gruppe-b\SEP\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\gruppe-b\SEP\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.SEP-0.0.1-SNAPSHOT.jar">
+    <configuration name="SEP-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/SEP-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ImportChesspuzzle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP/SEP/src/main/resources/templates/ImportChesspuzzle.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="navbar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP/SEP/src/main/resources/templates/navbar.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ChessPuzzle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/resources/static/ChessPuzzle.js" working-dir="$PROJECT_DIR$/src/main/resources/static">
+      <method v="2" />
+    </configuration>
+    <configuration name="SepApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SEP" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="SEP.SEP.SepApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEP.SEP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.SEP-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="Node.js.ChessPuzzle.js" />
+        <item itemvalue="JavaScript Debug.ImportChesspuzzle.html" />
+        <item itemvalue="JavaScript Debug.navbar.html" />
+        <item itemvalue="Spring Boot.SepApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Registrierung Überarbeitet">
+      <option name="closed" value="true" />
+      <created>1698318149039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698318149039</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ada7e5c-b79f-4833-9ec8-0f92c554c0e5" name="Changes" comment="Registrierung Überarbeitet" />
+      <created>1698656984345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698656984345</updated>
+      <workItem from="1698656987634" duration="24078000" />
+      <workItem from="1699215419055" duration="55800000" />
+      <workItem from="1699867123052" duration="607000" />
+      <workItem from="1699870839322" duration="1205000" />
+      <workItem from="1699883373064" duration="10701000" />
+      <workItem from="1700418033712" duration="17018000" />
+      <workItem from="1700750506034" duration="2249000" />
+      <workItem from="1700752912758" duration="3529000" />
+      <workItem from="1701076854739" duration="6515000" />
+      <workItem from="1701092023121" duration="39221000" />
+      <workItem from="1701731221023" duration="2681000" />
+      <workItem from="1701733933100" duration="2652000" />
+      <workItem from="1701737390067" duration="37052000" />
+      <workItem from="1701962373022" duration="21024000" />
+      <workItem from="1702287133217" duration="2336000" />
+      <workItem from="1702289500200" duration="6194000" />
+      <workItem from="1702546665687" duration="16885000" />
+      <workItem from="1705243288660" duration="40524000" />
+      <workItem from="1706450748535" duration="4724000" />
+      <workItem from="1706487525763" duration="6975000" />
+      <workItem from="1706629320339" duration="20761000" />
+    </task>
+    <task id="LOCAL-00002" summary="Backend Freundschaftsanfrage&#10;Überarbeitet">
+      <option name="closed" value="true" />
+      <created>1698779028462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698779028462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Backend Freundschaftsanfrage&#10;Überarbeitet">
+      <option name="closed" value="true" />
+      <created>1698918298450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698918298450</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Freundschaftsanfrage11">
+      <option name="closed" value="true" />
+      <created>1699268075884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699268075884</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Freundschaftsanfrage und ablehnen Backend">
+      <option name="closed" value="true" />
+      <created>1699531392061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699531392061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Freundschaftsanfrage ablehnen , akzeptieren Backend">
+      <option name="closed" value="true" />
+      <created>1699532129618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699532129618</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bugfix">
+      <option name="closed" value="true" />
+      <created>1699532960366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699532960366</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Freundschaftsanfrage reject">
+      <option name="closed" value="true" />
+      <created>1699640076930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699640076930</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Freundschaftsnafragen nicht mehr anzeigen">
+      <option name="closed" value="true" />
+      <created>1699872929489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699872929489</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chezzPuzzle backend">
+      <option name="closed" value="true" />
+      <created>1701336606281</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701336606282</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chezzPuzzle backend">
+      <option name="closed" value="true" />
+      <created>1701336899805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701336899805</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chezzPuzzle backend">
+      <option name="closed" value="true" />
+      <created>1701337522449</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701337522449</updated>
+    </task>
+    <task id="LOCAL-00013" summary="chezzPuzzle frontend">
+      <option name="closed" value="true" />
+      <created>1701811658690</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701811658690</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chezzPuzzle frontend2">
+      <option name="closed" value="true" />
+      <created>1701904045189</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701904045189</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chezzPuzzle frontend22">
+      <option name="closed" value="true" />
+      <created>1701904315667</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701904315667</updated>
+    </task>
+    <task id="LOCAL-00016" summary="chezzPuzzle frontend4">
+      <option name="closed" value="true" />
+      <created>1701940384510</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701940384510</updated>
+    </task>
+    <task id="LOCAL-00017" summary="chezzPuzzle frontend bearbeitet">
+      <option name="closed" value="true" />
+      <created>1701941936532</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701941936532</updated>
+    </task>
+    <task id="LOCAL-00018" summary="chezzPuzzle frontend bearbeitet5">
+      <option name="closed" value="true" />
+      <created>1701963105140</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701963105140</updated>
+    </task>
+    <task id="LOCAL-00019" summary="chezzPuzzle frontend bearbeitet6">
+      <option name="closed" value="true" />
+      <created>1702054235104</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702054235104</updated>
+    </task>
+    <task id="LOCAL-00020" summary="chezzPuzzle frontend bearbeitet7">
+      <option name="closed" value="true" />
+      <created>1702054492949</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1702054492949</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Frontend ChessPuzzle 8">
+      <option name="closed" value="true" />
+      <created>1702291600635</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1702291600635</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ChessPuzzle CSS">
+      <option name="closed" value="true" />
+      <created>1702303850168</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702303850168</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ChessPuzzle Import Button">
+      <option name="closed" value="true" />
+      <created>1702546966761</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1702546966761</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ChessPuzzle Import Button">
+      <option name="closed" value="true" />
+      <created>1702549542263</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702549542263</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Computergame Stockfish">
+      <option name="closed" value="true" />
+      <created>1705933786206</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1705933786207</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Computergame Stockfish">
+      <option name="closed" value="true" />
+      <created>1705933854291</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1705933854291</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Computergame Stockfish Schwierigkeit">
+      <option name="closed" value="true" />
+      <created>1706038601730</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1706038601730</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Computergame Stockfish Schwierigkeit2">
+      <option name="closed" value="true" />
+      <created>1706039879622</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1706039879622</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Computergame Anpassung">
+      <option name="closed" value="true" />
+      <created>1706487739114</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1706487739114</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Computergame Anpassung2">
+      <option name="closed" value="true" />
+      <created>1706487798674</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706487798674</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Computergame kleine Anpassung">
+      <option name="closed" value="true" />
+      <created>1706523711243</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706523711243</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Computergamme Bugfix">
+      <option name="closed" value="true" />
+      <created>1706524554624</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1706524554624</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Freundschaftsanfrage ablehnen , akzeptieren Backend" />
+    <MESSAGE value="Bugfix" />
+    <MESSAGE value="Freundschaftsanfrage reject" />
+    <MESSAGE value="Freundschaftsanfrage11" />
+    <MESSAGE value="Freundschaftsnafragen nicht mehr anzeigen" />
+    <MESSAGE value="chezzPuzzle backend" />
+    <MESSAGE value="chezzPuzzle frontend test" />
+    <MESSAGE value="chezzPuzzle frontend" />
+    <MESSAGE value="chezzPuzzle frontend2" />
+    <MESSAGE value="chezzPuzzle frontend22" />
+    <MESSAGE value="chezzPuzzle frontend4" />
+    <MESSAGE value="chezzPuzzle frontend bearbeitet" />
+    <MESSAGE value="chezzPuzzle frontend bearbeitet5" />
+    <MESSAGE value="chezzPuzzle frontend bearbeitet6" />
+    <MESSAGE value="chezzPuzzle frontend bearbeitet7" />
+    <MESSAGE value="Frontend ChessPuzzle 8" />
+    <MESSAGE value="ChessPuzzle CSS" />
+    <MESSAGE value="ChessPuzzle Import Button" />
+    <MESSAGE value="Computergame Stockfish" />
+    <MESSAGE value="Computergame Stockfish Schwierigkeit" />
+    <MESSAGE value="Computergame Stockfish Schwierigkeit2" />
+    <MESSAGE value="Computergame Anpassung" />
+    <MESSAGE value="Computergame Anpassung2" />
+    <MESSAGE value="Computergame kleine Anpassung" />
+    <MESSAGE value="Computergamme Bugfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Computergamme Bugfix" />
+  </component>
+</project>
