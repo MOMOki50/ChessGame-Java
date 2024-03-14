@@ -1,0 +1,141 @@
+.user-container {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: #f8f9fa; /* Hintergrundfarbe */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Schatten für Container */
+    display: none;
+}
+
+.user-container h2 {
+    color: #333; /* Farbe des Titels */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.search input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+#user-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee; /* Trennlinie zwischen den Benutzern */
+    padding-bottom: 10px;
+}
+
+.user-info {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+
+.user-info img {
+    margin-right: 10px;
+    border-radius: 50%; /* Kreisförmiges Profilbild */
+    width: 50px; /* Größe des Profilbildes */
+    height: 50px;
+}
+
+.user-name {
+    margin-right: auto;
+    color: #555;
+}
+
+.user-invite-checkbox {
+    margin-right: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.chat-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+    margin-top: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chat-participants {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.participant-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.participant-name {
+    color: #333;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.chat-actions form {
+    text-align: right;
+    display: flex;
+    gap: 20px;
+}
+
+.chat-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.chat-button:hover {
+    background-color: #218838;
+}
+
+.delete-button {
+    background-color: #da0606;
+}
+.delete-button:hover {
+    background-color: rgba(218, 6, 6, 0.78);
+}

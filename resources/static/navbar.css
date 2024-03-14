@@ -1,0 +1,8 @@
+.dropdown-menu {
+    z-index: 4500;
+}
+
+.nav-link {
+    z-index: 4500;
+    max-height: 35px;
+}

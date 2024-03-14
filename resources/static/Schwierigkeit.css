@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#schwierigkeit {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button[value="1"] {
+    background-color: #4CAF50; /* Grün für Leicht */
+    color: white;
+}
+
+button[value="2"] {
+    background-color: #FFD700; /* Gold für Mittel */
+    color: white;
+}
+
+button[value="3"] {
+    background-color: #FF6347; /* Tomatenrot für Schwer */
+    color: white;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}

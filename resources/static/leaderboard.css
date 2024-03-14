@@ -1,0 +1,45 @@
+
+.user-pb {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.user-name { /*css für alle Spalten mit Text im leaderboard*/
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+    margin-left: 10px;
+}
+
+.leader-table {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.leader-table th,
+.leader-table td {
+    padding: 5px; /* Adjust the padding value as per your requirement */
+}
+
+.friend-add{
+    background-color: white;
+    color: #fff;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    padding: 5px 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.user-list-btns {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+}

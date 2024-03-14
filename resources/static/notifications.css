@@ -1,0 +1,62 @@
+.friend-request {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    height: 150px;
+    overflow: hidden; /* Damit der Inhalt verschwindet, wenn die Höhe auf 0 gesetzt wird */
+    transition: all 0.5s; /* Fügt eine allgemeine Übergangseigenschaft hinzu */
+    margin-right: 15px;
+    margin-left: 15px;
+    max-width: 98%;
+}
+
+.friend-request img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-right: 30px;
+
+}
+
+.user-name {
+    font-weight: bold;
+}
+.request-details{
+    width: 70%;
+}
+.request-buttons {
+    width: 20%;
+    display: grid;
+}
+
+.accept-button,
+.reject-button{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin: 5px;
+    float: right;
+    border-radius: 10px;
+
+
+}
+
+.reject-button {
+    background-color: #f44336;
+
+}
+
+.friend-request.removed {
+    transform: translateX(150%); /* Verschiebt das Element nach rechts */
+    opacity: 0; /* Macht das Element transparent */
+}
+.user-pb {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}

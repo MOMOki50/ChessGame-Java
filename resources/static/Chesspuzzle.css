@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#menu {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#puzzlePage {
+    text-align: center;
+    display: none;
+}
+
+#fileInput {
+    margin: 10px 0;
+}
+
+#errorMessage,
+#successMessage,
+#puzzleCount {
+    margin: 10px 0;
+}
+
+#puzzleContainer {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+

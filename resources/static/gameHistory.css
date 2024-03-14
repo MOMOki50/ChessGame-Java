@@ -1,0 +1,113 @@
+.club-container {
+    border-radius: 10px;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #cccccc;
+    margin-bottom: 10px;
+}
+
+.game-import {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    height: 80px;
+    border-radius: 10px;
+    border: 2px solid #cccccc;
+    padding: 0 10px;
+}
+
+.game-import-info {
+    height: 80px;
+    width: 100%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.game-item {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    height: 80px;
+    border-radius: 10px;
+    border: 2px solid #cccccc;
+}
+
+
+.import-button,
+.export-button {
+    background-color: black;
+    color: white;
+    border: 2px solid transparent;
+    padding: 8px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 150px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.import-button:hover,
+.export-button:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+
+.games-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+
+.user-pb {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+input[type="file"] {
+    display: none;
+}
+
+
+label[for="fileInput"] {
+    background-color: black;
+    color: white;
+    border: 2px solid transparent;
+    padding: 8px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 150px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+label[for="fileInput"]:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
