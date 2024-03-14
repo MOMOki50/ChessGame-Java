@@ -1,0 +1,28 @@
+
+version: '3.8'
+
+services:
+  app:
+    image: "sep-app:latest"
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/SEP
+      - SPRING_DATASOURCE_USERNAME=SEP
+      - SPRING_DATASOURCE_PASSWORD=12345
+    depends_on:
+      - db
+
+  db:
+    image: "postgres:13"
+    ports:
+      - "5433:5432"
+    environment:
+      - POSTGRES_DB=SEP
+      - POSTGRES_USER=SEP
+      - POSTGRES_PASSWORD=12345
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
